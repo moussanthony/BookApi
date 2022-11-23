@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/BookApi.io/static/css/main.c1b1fdeb.css",
+    "main.js": "/BookApi.io/static/js/main.19936689.js",
+    "static/media/lib.jpg": "/BookApi.io/static/media/lib.a281dc466969e3db213b.jpg",
+    "static/media/awards.jpeg": "/BookApi.io/static/media/awards.ac16efc705cc0ebadf8e.jpeg",
+    "index.html": "/BookApi.io/index.html",
+    "main.c1b1fdeb.css.map": "/BookApi.io/static/css/main.c1b1fdeb.css.map",
+    "main.19936689.js.map": "/BookApi.io/static/js/main.19936689.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.c1b1fdeb.css",
+    "static/js/main.19936689.js"
+  ]
+}
